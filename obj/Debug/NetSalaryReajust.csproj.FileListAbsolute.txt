@@ -1,0 +1,10 @@
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\bin\Debug\NetSalaryReajust.exe.config
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\bin\Debug\NetSalaryReajust.exe
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\bin\Debug\NetSalaryReajust.pdb
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\obj\Debug\NetSalaryReajust.csprojAssemblyReference.cache
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\obj\Debug\NetSalaryReajust.frmNetSalaryReajust.resources
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\obj\Debug\NetSalaryReajust.Properties.Resources.resources
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\obj\Debug\NetSalaryReajust.csproj.GenerateResource.cache
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\obj\Debug\NetSalaryReajust.csproj.CoreCompileInputs.cache
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\obj\Debug\NetSalaryReajust.exe
+E:\C#-projects\excercises\Testes_livro\NetSalaryReajust\obj\Debug\NetSalaryReajust.pdb
